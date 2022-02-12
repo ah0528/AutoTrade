@@ -125,3 +125,5 @@ while True:
     except Exception as e:
         print(e)
         time.sleep(1)
+
+# 안녕하세요 실례합니당//
